@@ -1,0 +1,14 @@
+.ui.search .input {
+    width: 100%;
+  }
+  .ui.search .prompt {
+    border-radius: 0px;
+  }
+  .ui.input > input {
+    border: 1.5px solid rgba(34, 36, 38, 0.15);
+  }
+  i.icon {
+    float: right;
+    font-size: 20px;
+    cursor: pointer;
+  }
